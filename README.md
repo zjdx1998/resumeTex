@@ -5,6 +5,18 @@ Preview: [resume.pdf](./resume.pdf)
 
 ## Usage
 
+* required compiler: `xelatex`
+
+* Overleaf usage: 
+
+  * New blank project, then upload both `resume.tex` and `rsmclass.cls`.
+
+    Or
+
+  * Fork this project into your github. Select *"Import from GitHub"* when click the green New Project button in overleaf portal, then choose the repo you just forked. 
+
+## Style
+
 ### Education
 
 ```tex
